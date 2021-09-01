@@ -7,7 +7,7 @@
 .main {
     min-height: 100vh;
     width: 100%;
-    background-image:linear-gradient(rgba(4, 9, 30, 0.7),rgba(4, 9, 30, 0.7)),url(images/banner.jpg);
+    background-image:linear-gradient(rgba(4, 9, 30, 0.7),rgba(4, 9, 30, 0.7)),url(banner.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -172,12 +172,7 @@ nav .fa{
 }
 
 @media(max-width: 650px) {
-    /*body article{
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-    }*/
-    }
+  
     .row {
         flex-direction: column;
         align-items: center;
@@ -194,10 +189,7 @@ nav .fa{
         align-items: center;
         justify-content: center;
      }
-   /* .course-cl{
-         flex-direction: column;
-    }
-}*/
+
 
 .campus {
     text-align: center;
