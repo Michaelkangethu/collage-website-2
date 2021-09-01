@@ -116,16 +116,7 @@ nav .fa{
        /*right: -200px;*/
         z-index: 2;
     }
-    /*nav.fa {
-        display: block;
-        color: black;
-        margin: 10px;
-        font-size: 22px;
-        cursor: pointer;
-    }
-    .nav-links ul {
-        padding: 30px;
-    }*/
+   
 }
 
 .article2 {
@@ -189,8 +180,7 @@ nav .fa{
         align-items: center;
         justify-content: center;
      }
-
-
+}
 .campus {
     text-align: center;
     margin: auto;
