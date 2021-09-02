@@ -199,7 +199,7 @@ nav .fa{
     margin-bottom: 30px;
     position: relative;
     overflow: hidden;
-   display: block;
+     display: flex;
    flex-direction: row;
 }
 .cpics{
