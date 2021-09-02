@@ -98,12 +98,12 @@ nav .fa {
     display: none;
 }
 
-@media (-webkit-min-device-pixel-ratio:2) {
+@media (max-width: 700px) {
    .article1 {
-        font-size: 60px;
+        font-size: 50px;
     }
     .article1 p {
-        font-size: 30px;
+        font-size: 20px;
     }
     .nav-links ul li{
         display: block;
@@ -172,7 +172,7 @@ nav .fa {
     box-shadow: 0 0 20px 0px teal;
 }
 
-@media (-webkit-min-device-pixel-ratio:2) {
+@media (max-width: 700px) {
   
     .row {
         flex-direction: column;
@@ -222,7 +222,7 @@ nav .fa {
     width: 100%
 }
 
-@media(-webkit-min-device-pixel-ratio:2) {
+@media(max-width: 700px) {
     .campus-pics {
         flex-direction: column;
     }
